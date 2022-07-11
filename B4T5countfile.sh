@@ -4,7 +4,7 @@ function dem(){
 	so_tm=0
 	so_symbolic_link=0
 	so_hard_link=0
-	echo -e "\n=>Dang nghien cuu Hiep"
+	echo -e "\n=>Dang nghien cuu"
 }
 function kiemtra(){
 	if [ -d $1 ]
